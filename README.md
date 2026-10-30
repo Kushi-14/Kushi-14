@@ -145,13 +145,13 @@ I care about the whole journey: **research → design → implementation → tes
 
 ---
 
-## 🏅 Leadership & Beyond Code
+##  Leadership & Beyond Code
 
 <table>
-  <tr><td>📣 <strong>Social Media &amp; Marketing Lead</strong></td><td>Echo Club, Jain University — grew followers by <strong>500+</strong> and increased engagement by <strong>30–40%</strong>.</td></tr>
-  <tr><td>🎤 <strong>Event Host &amp; Anchor</strong></td><td>Hosted events for <strong>100–300+</strong> attendees; strengthened communication and presentation skills.</td></tr>
-  <tr><td>💡 <strong>Hackathon Participant</strong></td><td>Participated in <strong>Vibeathon 2025</strong>, a 36-hour offline hackathon.</td></tr>
-  <tr><td>🤝 <strong>Community Volunteer</strong></td><td>Supported the Women Cell international conference attended by <strong>200+</strong> participants.</td></tr>
+  <tr><td> <strong>Social Media &amp; Marketing Lead</strong></td><td>Echo Club, Jain University — grew followers by <strong>500+</strong> and increased engagement by <strong>30–40%</strong>.</td></tr>
+  <tr><td> <strong>Event Host &amp; Anchor</strong></td><td>Hosted events for <strong>100–300+</strong> attendees; strengthened communication and presentation skills.</td></tr>
+  <tr><td><strong>Hackathon Participant</strong></td><td>Participated in <strong>Vibeathon 2025</strong>, a 36-hour offline hackathon.</td></tr>
+  <tr><td> <strong>Community Volunteer</strong></td><td>Supported the Women Cell international conference attended by <strong>200+</strong> participants.</td></tr>
 </table>
 
 ---
@@ -167,7 +167,7 @@ I care about the whole journey: **research → design → implementation → tes
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Meaningful
+### Let's Connect & Build Something Meaningful
 
 <a href="mailto:kushi14nc@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Me-22D3EE?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1020" /></a>
 <a href="https://www.linkedin.com/in/kushi-n-c/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kushi_N_C-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
