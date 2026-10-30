@@ -1,180 +1,131 @@
-<!--
-  GitHub Profile README for Kushi N C
-  Repository: https://github.com/Kushi-14/Kushi-14
-  Notes:
-  - Replace the existing README.md in your profile repository with this file.
-  - Featured AI/ML project descriptions come from the supplied resume.
-  - No unverified links to the AI/ML project source code are included.
-  - Public contact details intentionally exclude a personal phone number.
--->
+<!-- GitHub profile README for https://github.com/Kushi-14/Kushi-14 -->
 
 <div align="center">
 
-  <img width="100%" alt="Kushi N C - GitHub profile header" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,45:4338CA,100:0891B2&amp;height=235&amp;section=header&amp;text=KUSHI%20N%20C&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=JAVA%20%7C%20AI%20%26%20ML%20%7C%20CLOUD%20%26%20DATA&amp;descSize=18&amp;descAlignY=61" />
+<h1>Hi, I'm Kushi N C 👋</h1>
+<h3>Java Developer | AI &amp; ML Enthusiast | Cloud Computing Explorer</h3>
+<p><strong>Building practical software, intelligent systems, and technology with real-world impact.</strong></p>
 
-  <a href="https://git.io/typing-svg">
-    <img alt="Animated profile introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3200&amp;pause=850&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Building+technology+with+real-world+impact;Java+Developer+%7C+AI%2FML+Enthusiast;Exploring+Cloud+%26+Data+Engineering;Curious+mind.+Practical+solutions." />
-  </a>
+<p>
+<a href="https://www.linkedin.com/in/kushi-n-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:kushi14nc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Kushi-14"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Kushi--14-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+</p>
 
-  <p>
-    <a href="https://github.com/Kushi-14"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Kushi--14-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/kushi-n-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-    <a href="mailto:kushi14nc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Let's_Connect-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-  </p>
-
-  <p><strong>📍 Bengaluru, India &nbsp; • &nbsp; 🎓 B.Tech — Computer Science &amp; Business Systems, Jain University (2023–2027)</strong></p>
+<p>📍 <strong>Bengaluru, India</strong> · 🎓 <strong>Jain University | B.Tech (2023–2027)</strong></p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👩‍💻 About Me
 
-```yaml
-name: Kushi N C
-education: B.Tech in Computer Science and Business Systems
-university: Jain University, Bengaluru
-focus:
-  - Java and practical software development
-  - Machine Learning and intelligent applications
-  - Data analytics and recommendation systems
-interests:
-  - Cloud Computing and Data Engineering
-cloud_platforms:
-  - Amazon Web Services (AWS)
-  - Microsoft Azure
-  - Google Cloud Platform (GCP)
-exploring:
-  - Cloud infrastructure and data workflows
-currently_building: Wearable human-safety technology (patent process underway)
-motto: "Build thoughtfully. Learn continuously. Create impact."
-```
+I'm **Kushi N C**, a **B.Tech Computer Science and Business Systems** undergraduate at **Jain University, Bengaluru (2023–2027)**. I enjoy translating ideas into useful software, with a strong foundation in **Java** and growing experience in **Artificial Intelligence, Machine Learning, and data-driven applications**.
 
-I'm a computer science and business systems undergraduate who enjoys transforming ideas into **functional, people-centered technology**. My work spans **Java development, applied machine learning, computer vision, and recommendation systems**, and I am especially interested in **Cloud Computing and Data Engineering**. I am familiar with using **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)**.
+I am especially interested in **Cloud Computing** and enjoy working with **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)**. My interests bring together software development, AI-powered products, cloud technologies, and problem-solving for real-world needs.
 
-I care about the whole journey: **research → design → implementation → testing → improvement**. From exploring accessible learning technologies to creating more relevant digital experiences, I aim to build solutions that solve meaningful problems.
+From building an **AI-powered dyslexia risk assessment system** to exploring **personalized music recommendations**, I like working across the complete development lifecycle: **research → design → implementation → testing → improvement**.
 
----
+- 🔭 **Currently developing:** A wearable human-safety device (**patent process underway**).
+- ☁️ **Cloud interests:** AWS, Microsoft Azure, GCP, cloud applications, and data engineering.
+- 🧠 **Technical interests:** Java development, ML/AI, computer vision, recommendation systems, and SQL.
+- 🌱 **Learning mindset:** Building practical projects and strengthening my software and cloud engineering skills.
+- 💬 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/kushi-n-c/) · [Email](mailto:kushi14nc@gmail.com)
 
-## 🧰 Tech Stack & Tools
-
-<div align="center">
+## 🧰 Tech Stack
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&amp;theme=dark" alt="Java, Python, JavaScript, HTML and CSS" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI, Data & Backend**
 
-<img src="https://skillicons.dev/icons?i=sklearn,opencv,flask,mysql&amp;theme=dark" alt="Scikit-learn, OpenCV, Flask and MySQL" />
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge)
 
-**Cloud Platforms**
+**Cloud Computing**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&amp;theme=dark" alt="Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)" />
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Developer Toolkit**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub and Visual Studio Code" />
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</div>
+## 🚀 Featured Projects
 
-<div align="center">
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **AI-Powered Dyslexia Risk Assessment for Children** | Built a bilingual **English/Hindi** early risk-assessment system combining eye-tracking, handwriting evaluation, and cognitive tests. An ensemble approach improved prediction accuracy by **~15–20%** compared with individual models; the pipeline reduced manual analysis effort by **40%+**. | Python, OpenCV, Flask, NumPy, ML |
+| **Music Recommendation System (ML + LLM)** | Developed a hybrid recommendation approach using collaborative filtering and LLM-assisted natural-language discovery. Reported **~20–25%** better recommendation relevance and **~30%** lower search effort, with an approach for the new-user cold-start problem. | Python, scikit-learn, pandas, NumPy, Spotify APIs, LLM API |
+| **Wearable Human-Safety Device** *(in development)* | Working on a wearable safety technology concept with a **patent process underway**. | Development in progress |
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-4338CA?style=flat-square)
-![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Exploring_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![ETL](https://img.shields.io/badge/Exploring_ETL-0891B2?style=flat-square)
+<sub>Project outcomes above are drawn from my resume. The dyslexia project is an early risk-assessment tool, not a clinical diagnosis service.</sub>
 
-</div>
+## 💻 Explore My GitHub Repositories
 
----
+| Repository | Focus |
+| :--- | :--- |
+| [Java Internship Projects](https://github.com/Kushi-14/java-internship-projects) | Hands-on Java applications, including an emoji mood responder and a creative job-title generator |
+| [Daily Goal Reminder](https://github.com/Kushi-14/daily-goal-reminder) | Practical Java programming project |
+| [Habit Strength Calculator](https://github.com/Kushi-14/habit-strength-calculator) | Java-based habit calculator exercise |
 
-## 🚀 Featured Work
+> More AI/ML project code and demos can be linked here when they are ready to publish.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI-Powered Dyslexia Risk Assessment</h3>
-      <p><strong>Python · OpenCV · Flask · NumPy · Machine Learning</strong></p>
-      <p>Developed a bilingual (English/Hindi) web-based early risk assessment system incorporating eye-tracking, handwriting evaluation, and cognitive tests.</p>
-      <p>⚡ Resume-reported results: <strong>~15–20% improvement</strong> in prediction accuracy against individual models and <strong>40%+ less</strong> manual analysis effort.</p>
-      <p><em>Designed to support early screening and learning assistance, not replace professional diagnosis.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 Hybrid Music Recommendation System</h3>
-      <p><strong>Python · scikit-learn · pandas · Spotify APIs · LLM API</strong></p>
-      <p>Built a personalized music discovery approach combining collaborative filtering with natural-language, LLM-assisted recommendations, including support for new-user cold starts.</p>
-      <p>⚡ Resume-reported results: <strong>~20–25% improvement</strong> in recommendation relevance and <strong>~30% lower</strong> user search effort.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🛡️ Wearable Human-Safety Device <code>IN DEVELOPMENT</code></h3>
-      <p>Working on a wearable technology concept focused on practical human safety. <strong>Patent process underway</strong>; technical details are intentionally not disclosed here.</p>
-    </td>
-  </tr>
-</table>
+## ☁️ Interests & Practical Experience
 
-### 💻 Explore My Java Work
+- **Software development:** Java programming, problem-solving, and building functional applications.
+- **AI & Machine Learning:** Model development, evaluation, recommendation systems, computer vision, and LLM-assisted applications.
+- **Data & databases:** SQL (MySQL), data preparation, analysis, and exploring patterns in user behavior.
+- **Cloud Computing:** Familiarity with **AWS, Azure, and GCP**, with an interest in cloud-based applications and data engineering.
+- **Product thinking:** Designing solutions that are useful, accessible, and grounded in real user needs.
 
-<a href="https://github.com/Kushi-14/java-internship-projects">
-  <img alt="Java internship projects repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Kushi-14&amp;repo=java-internship-projects&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" />
-</a>
+## 🏅 Leadership & Activities
 
-**[Java Internship Projects](https://github.com/Kushi-14/java-internship-projects)** — A growing collection of hands-on Java exercises, including an emoji mood responder and a playful job-title generator.
+- **Social Media & Marketing Lead — Echo Club, Jain University:** Increased engagement by **30–40%**, grew the audience by **500+ followers**, and helped boost event participation by **25%+**.
+- **Event Hosting & Anchoring:** Hosted events for audiences of **100–300+**, strengthening communication and public speaking skills.
+- **Hackathons:** Participated in **Vibeathon 2025**, a **36-hour** offline hackathon.
+- **Volunteering:** Supported a **Women Cell international conference** attended by **200+ participants**.
 
-> The AI/ML project summaries above are based on my resume. I will add direct source-code and demo links when those repositories are ready to share.
+## 🎓 Education
 
----
+**Jain University, Bengaluru** — B.Tech, Computer Science and Business Systems  
+**2023–2027** · **CGPA: 8.56**
 
-## 📊 GitHub Dashboard
+## 📈 GitHub Insights
 
 <div align="center">
-  <img height="175" alt="Kushi GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kushi-14&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;rank_icon=github" />
-  <img height="175" alt="Kushi's most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushi-14&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;langs_count=6" />
 
-  <img width="96%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushi-14&amp;bg_color=0D1117&amp;color=22D3EE&amp;line=A78BFA&amp;point=FFFFFF&amp;area=true&amp;area_color=4338CA&amp;hide_border=true" />
+<img alt="GitHub profile statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kushi-14&amp;theme=github_dark" />
+<img alt="Languages used in public commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushi-14&amp;theme=github_dark" />
+
 </div>
 
-<sub>GitHub dashboard cards are live, third-party-generated visuals; they may occasionally load slowly or be temporarily unavailable.</sub>
-
----
-
-##  Leadership & Beyond Code
-
-<table>
-  <tr><td> <strong>Social Media &amp; Marketing Lead</strong></td><td>Echo Club, Jain University — grew followers by <strong>500+</strong> and increased engagement by <strong>30–40%</strong>.</td></tr>
-  <tr><td> <strong>Event Host &amp; Anchor</strong></td><td>Hosted events for <strong>100–300+</strong> attendees; strengthened communication and presentation skills.</td></tr>
-  <tr><td><strong>Hackathon Participant</strong></td><td>Participated in <strong>Vibeathon 2025</strong>, a 36-hour offline hackathon.</td></tr>
-  <tr><td> <strong>Community Volunteer</strong></td><td>Supported the Women Cell international conference attended by <strong>200+</strong> participants.</td></tr>
-</table>
-
----
-
-## 🎯 What I'm Exploring Next
-
-- Growing my **Cloud Computing** skills across **AWS, Microsoft Azure, and GCP**, alongside SQL and data pipelines.
-- Advancing practical **machine learning and applied AI** projects.
-- Developing **accessible, user-centered applications** with measurable value.
-- Collaborating on **Java, AI/ML, cloud computing, and data projects**.
+<sub>GitHub insights are generated by a third-party service and may occasionally be unavailable.</sub>
 
 ---
 
 <div align="center">
 
-### Let's Connect & Build Something Meaningful
+<h3>🤝 Let's Build Something Meaningful</h3>
 
-<a href="mailto:kushi14nc@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Me-22D3EE?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1020" /></a>
-<a href="https://www.linkedin.com/in/kushi-n-c/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kushi_N_C-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://github.com/Kushi-14?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Browse-My_Repositories-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/kushi-n-c/">LinkedIn</a> · <a href="mailto:kushi14nc@gmail.com">Email</a> · <a href="https://github.com/Kushi-14">GitHub</a></p>
 
-<sub>Curiosity → Code → Impact.</sub>
+<p><em>Curiosity • Code • Cloud • Impact</em></p>
 
-<img width="100%" alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891B2,55:4338CA,100:0B1020&amp;height=110&amp;section=footer" />
+<p><strong>Thanks for visiting my profile!</strong></p>
 
 </div>
